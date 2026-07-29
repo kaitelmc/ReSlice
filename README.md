@@ -1,3 +1,4 @@
+```text
 =========================================
    ____      ____  _ _
   |  _ \ ___/ ___|| (_) ___ ___
@@ -7,6 +8,7 @@
 
       Audio Slicer for Python
 =========================================
+```
 
 ReSlice is a simple audio slicing tool written in Python.
 
